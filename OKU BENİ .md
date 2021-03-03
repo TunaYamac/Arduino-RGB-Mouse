@@ -8,4 +8,4 @@ Gerek.
 !!!ÖNEMLİ!!! Bu Projeyi Arduino Nano da Yapacaklar "main/Arduino-Nano" Dan Animasyon Kodunu Kopyalasın!!! Ama Mağlesef Arduino Nanonun Wifi Özelliği Olmadığı İçin
 Wifi Üzerinden KONTROL EDİLEMEZ Sabit Animasyonlarla Kısıtlı Kalıyorsunuz.
 
-Bu Projeyi Wemos Üzerinden Yapacaklar "main/Wemos-D1-Mini" Kısmındaki Kodları Kullansın.
+Bu Projeyi Wemos Üzerinden Yapacaklar "main/Wemos-D1-Mini" Kısmındaki Kodları Kullansın. (Evt, Arduino Nano Kodları Wemosda da Çalışıyo Hoşunuza Giden Olursa Kullanabilirsiniz)

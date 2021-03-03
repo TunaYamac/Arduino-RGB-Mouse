@@ -1,8 +1,9 @@
+// D1, D2, D3 Kismi calismazsa 1, 2, 3 ile degistirin
 const int kirmizi = D1;
 const int yesil = D2;
 const int mavi = D3;
 
-// the setup function runs once when you press reset or power the board
+
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(kirmizi, OUTPUT);

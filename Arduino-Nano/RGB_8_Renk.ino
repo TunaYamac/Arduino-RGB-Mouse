@@ -5,13 +5,11 @@ const int mavi = D3;
 
 
 void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
   pinMode(kirmizi, OUTPUT);
   pinMode(yesil, OUTPUT); 
   pinMode(mavi, OUTPUT); 
 }
 
-// the loop function runs over and over again forever
 void loop() {
   digitalWrite(kirmizi, HIGH);   
   delay(1000);                       
